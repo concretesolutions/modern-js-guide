@@ -45,11 +45,12 @@ function cowFactory(name) {
         },
     };
 }
-```
+
 
 var daisy = cowFactory('Daisy');
 daisy.talk();  // "Moo, my name is Daisy the cow"
 daisy.formalName();  // ERROR: daisy.formalName is not a function
+```
 The last line will give an error because the function formalName is closed inside the cowFactory function. This is a closure.
 
 Factories are also a great way of applying functional programming practices in JavaScript, because they are functions.
