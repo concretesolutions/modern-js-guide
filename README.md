@@ -1,15 +1,15 @@
-# The Ultimate Js Guide
+# The Modern JavaScript Guide
 
 ## About
-The purpose of this guide, is to orientate developers about what topics are important to Javascript development and decide what would be their next step to make in their pursuit for mastering the most popular programming language.
+The purpose of this guide, is to guide JavaScript developers what topics are important and decide what would be their next step to make in their pursuit for mastering the most popular programming language.
 
-We will separate the content in three main categories:
+We will divide the content in three main categories:
 
 * General
 
-* Frontend
+* Front-End
 
-* Backend
+* Back-End
 
 ## Contribute
 
