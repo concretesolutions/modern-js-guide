@@ -55,19 +55,19 @@ Create a new [issue](https://github.com/concretesolutions/modern-js-guide/issues
   
 - Front-End
   - CSS
-   - CSS methodologies (BEM, SMACSS)
+    - CSS methodologies (BEM, SMACSS)
   - HTML
-   - HTML5
-   - MEDIA (VIDEO, SOUND, IMAGES)
+    - HTML5
+    - MEDIA (VIDEO, SOUND, IMAGES)
   - DOM
-   - Shadow DOM  and Virtual DOM
+    - Shadow DOM  and Virtual DOM
   - Bundlers (Webpack)
   - CSS and JS optimizations
   - CDN
   - Authentication
   - Frameworks
-   - React
-   - Angular2
+    - React
+    - Angular2
    
 - Backend
   - Node Events
@@ -79,10 +79,10 @@ Create a new [issue](https://github.com/concretesolutions/modern-js-guide/issues
   - NOSQL vs SQL
   - ORM (sequelize)
   - AWS
-   - Switch Role
-   - SDK
-   - IAM
-   - Lambda
+    - Switch Role
+    - SDK
+    - IAM
+    - Lambda
   - Docker
   - Microservices arquitectures
   
