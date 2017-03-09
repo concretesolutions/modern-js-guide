@@ -69,22 +69,22 @@ Create a new [issue](https://github.com/concretesolutions/modern-js-guide/issues
    - React
    - Angular2
    
- - Backend
-   - Node Events
-   - Frameworks (Express, KOA, Hapi)
-   - Process managers (PM2, forever)
-   - JWT
-   - Swagger
-   - ORM
-   - NOSQL vs SQL
-   - ORM (sequelize)
-   - AWS
-    - Switch Role
-    - SDK
-    - IAM
-    - Lambda
-   - Docker
-   - Microservices arquitectures
+- Backend
+  - Node Events
+  - Frameworks (Express, KOA, Hapi)
+  - Process managers (PM2, forever)
+  - JWT
+  - Swagger
+  - ORM
+  - NOSQL vs SQL
+  - ORM (sequelize)
+  - AWS
+   - Switch Role
+   - SDK
+   - IAM
+   - Lambda
+  - Docker
+  - Microservices arquitectures
   
    
   
