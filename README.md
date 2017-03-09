@@ -45,6 +45,7 @@ Create a new [issue](https://github.com/concretesolutions/modern-js-guide/issues
   * Functions (http://stackoverflow.com/documentation/javascript/186/functions)
   * Scope (http://stackoverflow.com/documentation/javascript/480/scope)
   * [Creational Desing Patterns](docs/general/desing-patterns.md)
+  * Behavioral Design Patterns (http://stackoverflow.com/documentation/javascript/5650/behavioral-design-patterns#t=201703092012545220231)
   * How to handle async code
   * Modules and Dependency manangement (NPM)
   * ES6
