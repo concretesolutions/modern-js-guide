@@ -18,7 +18,9 @@ Please feel free to contribute by submitting a pull request.
 Create a new [issue](https://github.com/concretesolutions/modern-js-guide/issues) with label `enhancement`, explaning what, where and why you are suggesting.
 
 ### Contribute to exiting topic
-Choose a topic from the [Table of Contents](#table-of-contents), and submit a pull request.
+1. Choose a topic from the [Table of Contents](#table-of-contents).
+2. Create a new [issue](https://github.com/concretesolutions/modern-js-guide/issues) with label `question` asking if there are any guidelines or someone already working on that task.
+3. Submit a pull request with the new content.
 
 #### Ways of creating content:
  * Create content from scratch: Free mode...
