@@ -1,4 +1,4 @@
-# Javascript design patterns
+# Javascript creational design patterns
 
 The content of this page is originally extracted from http://stackoverflow.com/documentation/javascript/1668/creational-design-patterns#t=201703072019236686439
 
@@ -17,11 +17,13 @@ http://stackoverflow.com/documentation/javascript/1668/creational-design-pattern
 
 ### More about composition over inheritance
 
+https://medium.com/humans-create-software/factory-functions-in-javascript-video-d38e49802555#.q6x747ihn
+http://softwareengineering.stackexchange.com/questions/134097/why-should-i-prefer-composition-over-inheritance
+
 ## Abstract Factory Pattern
 http://stackoverflow.com/documentation/javascript/1668/creational-design-patterns/18121/abstract-factory-pattern
 
-https://medium.com/humans-create-software/factory-functions-in-javascript-video-d38e49802555#.q6x747ihn
-http://softwareengineering.stackexchange.com/questions/134097/why-should-i-prefer-composition-over-inheritance
+
 
 ## Module and Revealing Module Patterns
 
