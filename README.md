@@ -56,7 +56,7 @@ Create a new [issue](https://github.com/concretesolutions/modern-js-guide/issues
   
 - Front-End
   - CSS
-    - [CSS Naming Schemes](docs/frot-end/CSS-naming-schemes)
+    - [CSS Naming Schemes](docs/front-end/CSS-naming-schemes.md)
   - HTML
     - HTML5
     - MEDIA (VIDEO, SOUND, IMAGES)
