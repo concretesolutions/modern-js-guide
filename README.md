@@ -56,7 +56,7 @@ Create a new [issue](https://github.com/concretesolutions/modern-js-guide/issues
   
 - Front-End
   - CSS
-    - CSS methodologies (BEM, SMACSS)
+    - [CSS Naming Schemes](docs/frot-end/CSS-naming-schemes)
   - HTML
     - HTML5
     - MEDIA (VIDEO, SOUND, IMAGES)
