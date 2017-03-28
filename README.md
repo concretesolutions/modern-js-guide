@@ -68,6 +68,7 @@ Create a new [issue](https://github.com/concretesolutions/modern-js-guide/issues
   - Authentication
   - Frameworks
     - React
+      - [Patterns and best practices](https://github.com/vasanthk/react-bits)
     - Angular2
    
 - Backend
